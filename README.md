@@ -5,32 +5,32 @@ bagi anda pengguna termux dimana ngrok anda yang bertulisan "Reconnecting" langk
 
 **Instalation Termux**
 ```
-$ `apt update`
-$ `pkg install git curl php openssh bash -y`
-$ `git clone https://github.com/djunekz/zp`
-$ `ls`
-$ `cd zp`
+$ apt update
+$ pkg install git curl php openssh bash -y
+$ git clone https://github.com/djunekz/zp
+$ ls
+$ cd zp
 ```
-**===> Run : `$ bash zp.sh`**
+**==> Run : $`bash zp.sh`**
 
 **Instalation Distro Linux**
 ```
-$ `apt-get update`
-$ `apt-get install git curl php openssh bash -y`
-$ `git clone https://github.com/djunekz/zp`
-$ `cd zp`
-$ `./zp.sh`
+$ apt-get update
+$ apt-get install git curl php openssh bash -y
+$ git clone https://github.com/djunekz/zp
+$ cd zp
+$ ./zp.sh
 ```
 
 **Single Install (Auto)**
 ````
-`apt update && pkg install git curl php openssh -y && git clone https://github.com/djunekz/zp && cd zp && bash zp.sh`
+apt update && pkg install git curl php openssh -y && git clone https://github.com/djunekz/zp && cd zp && bash zp.sh
 ````
 
 # Tunelling Option
 ```
-`~ Localhost > 127.0.0.1`
-`~ NGROK > https://ngrok.com`
-`~ SERVEO > https://serveo.net`
-`~ Localhostrun > https://localhost.run`
+~ Localhost > 127.0.0.1
+~ NGROK > https://ngrok.com
+~ SERVEO > https://serveo.net
+~ Localhostrun > https://localhost.run
 ```
